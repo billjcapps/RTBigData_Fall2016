@@ -1,0 +1,1 @@
+This lab uses Map-Reduce to translate relative directions into a fixed location.  An input file contains the words "up", "down", "left", and "right" separated by commas.  The program counts the number of times each word appears and translates it into the fixed coordinate with the assumption of starting at the origin (0,0).
