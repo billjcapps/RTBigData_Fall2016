@@ -1,0 +1,1 @@
+This program takes an input ASCII text file and produces two outputs.  The first, "outputCount", counts the number of sentences.  The second, "outputSorted", displays the sentences sorted alphabetically.
